@@ -1,0 +1,1997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="directed">
+    <attributes class="node">
+      <attribute id="0" title="0" type="string"/>
+      <attribute id="1" title="1" type="string"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="index" title="index" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="web api" label="Web API">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="222" g="45" b="38"/>
+        <viz:size value="2.8284271247461903"/>
+        <viz:position x="-107.1242446899414" y="-51.042030334472656"/>
+      </node>
+      <node id="repository" label="Repository">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="222" g="45" b="38"/>
+        <viz:size value="1"/>
+        <viz:position x="74.45877838134766" y="-171.33233642578125"/>
+      </node>
+      <node id="digital library" label="Digital library">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="222" g="45" b="38"/>
+        <viz:size value="3"/>
+        <viz:position x="70.438720703125" y="15.215812683105469"/>
+      </node>
+      <node id="anna's archive" label="Anna's Archive">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="3"/>
+        <viz:position x="77.69796752929688" y="76.33194732666016"/>
+      </node>
+      <node id="bibliographic database" label="Bibliographic database">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="2.6457513110645907"/>
+        <viz:position x="136.66993713378906" y="-22.776512145996094"/>
+      </node>
+      <node id="content repository" label="Content repository">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="1.7320508075688772"/>
+        <viz:position x="128.1929168701172" y="17.863805770874023"/>
+      </node>
+      <node id="digital library federation" label="Digital Library Federation">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="1"/>
+        <viz:position x="50.462684631347656" y="11.29625415802002"/>
+      </node>
+      <node id="digital collections selection criteria" label="Digital Collections Selection Criteria">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="2.449489742783178"/>
+        <viz:position x="116.71727752685547" y="-77.39661407470703"/>
+      </node>
+      <node id="digitization" label="Digitization">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="3"/>
+        <viz:position x="58.825233459472656" y="-65.34783172607422"/>
+      </node>
+      <node id="d-lib" label="D-Lib">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="1"/>
+        <viz:position x="46.19649124145508" y="20.472469329833984"/>
+      </node>
+      <node id="full-text database" label="Full-text database">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="2"/>
+        <viz:position x="101.4244155883789" y="-7.704101085662842"/>
+      </node>
+      <node id="mobile library" label="Mobile library">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="2"/>
+        <viz:position x="41.69929885864258" y="-1.7894952297210693"/>
+      </node>
+      <node id="panjab digital library" label="Panjab Digital Library">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="1"/>
+        <viz:position x="54.03369140625" y="28.404993057250977"/>
+      </node>
+      <node id="shadow library" label="Shadow library">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="3"/>
+        <viz:position x="85.98673248291016" y="106.42495727539062"/>
+      </node>
+      <node id="traveling library" label="Traveling library">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="2"/>
+        <viz:position x="54.25068283081055" y="-10.033353805541992"/>
+      </node>
+      <node id="web archiving" label="Web archiving">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="3"/>
+        <viz:position x="-12.914966583251953" y="94.92826843261719"/>
+      </node>
+      <node id="z-library" label="Z-Library">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="3"/>
+        <viz:position x="107.65611267089844" y="75.88969421386719"/>
+      </node>
+      <node id="application programming interface" label="Application programming interface">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="3"/>
+        <viz:position x="-63.05642318725586" y="-116.94303131103516"/>
+      </node>
+      <node id="dynamic web page" label="Dynamic web page">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="3"/>
+        <viz:position x="-140.9982452392578" y="41.960487365722656"/>
+      </node>
+      <node id="overview of restful api description languages" label="Overview of RESTful API Description Languages">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="1.4142135623730951"/>
+        <viz:position x="-131.60289001464844" y="-57.43642807006836"/>
+      </node>
+      <node id="representational state transfer" label="Representational state transfer">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="2.449489742783178"/>
+        <viz:position x="-150.35287475585938" y="-52.763092041015625"/>
+      </node>
+      <node id="graphql" label="GraphQL">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="2"/>
+        <viz:position x="-73.3873291015625" y="-43.27866744995117"/>
+      </node>
+      <node id="web service" label="Web service">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="37" g="52" b="148"/>
+        <viz:size value="2.23606797749979"/>
+        <viz:position x="-119.48686981201172" y="-29.624011993408203"/>
+      </node>
+      <node id="middleware" label="Middleware">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-112.70884704589844" y="-15.44681167602539"/>
+      </node>
+      <node id="service-oriented architecture" label="Service-oriented architecture">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1.4142135623730951"/>
+        <viz:position x="-141.54818725585938" y="-34.90164566040039"/>
+      </node>
+      <node id="web map service" label="Web Map Service">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-125.56468200683594" y="-15.914761543273926"/>
+      </node>
+      <node id="query by example" label="Query by Example">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-60.73527526855469" y="-34.99722671508789"/>
+      </node>
+      <node id="openapi specification" label="OpenAPI Specification">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-69.15696716308594" y="-28.431047439575195"/>
+      </node>
+      <node id="microservices" label="Microservices">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1.4142135623730951"/>
+        <viz:position x="-65.57550811767578" y="-71.62171936035156"/>
+      </node>
+      <node id="resource-oriented architecture" label="Resource-oriented architecture">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-165.6856231689453" y="-44.55363082885742"/>
+      </node>
+      <node id="resource-oriented computing" label="Resource-oriented computing">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-161.4102325439453" y="-65.11361694335938"/>
+      </node>
+      <node id="web-oriented architecture" label="Web-oriented architecture">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-167.47164916992188" y="-55.4064826965332"/>
+      </node>
+      <node id="static web page" label="Static web page">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-125.21853637695312" y="56.00619888305664"/>
+      </node>
+      <node id="dynamic html" label="Dynamic HTML">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-162.20465087890625" y="49.604698181152344"/>
+      </node>
+      <node id="responsive web design" label="Responsive Web Design">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-147.02149963378906" y="25.246864318847656"/>
+      </node>
+      <node id="deep web (search indexing)" label="Deep web (search indexing)">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-158.0057830810547" y="30.973669052124023"/>
+      </node>
+      <node id="web template system" label="Web template system">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-143.96124267578125" y="60.2157096862793"/>
+      </node>
+      <node id="solution stack" label="Solution stack">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-125.51190948486328" y="33.2619743347168"/>
+      </node>
+      <node id="lamp (software bundle)" label="LAMP (software bundle)">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-131.50645446777344" y="62.772884368896484"/>
+      </node>
+      <node id="lyme (software bundle)" label="LYME (software bundle)">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-121.83988189697266" y="45.999305725097656"/>
+      </node>
+      <node id="lyce (software bundle)" label="LYCE (software bundle)">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-162.06832885742188" y="40.1164665222168"/>
+      </node>
+      <node id="content management system" label="Content management system">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-139.75059509277344" y="68.52328491210938"/>
+      </node>
+      <node id="web content management system" label="Web content management system">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-152.41656494140625" y="65.22801208496094"/>
+      </node>
+      <node id="personalization management system" label="Personalization management system">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-156.671142578125" y="56.58846664428711"/>
+      </node>
+      <node id="api testing" label="API testing">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-38.67319107055664" y="-121.6097183227539"/>
+      </node>
+      <node id="api writer" label="API writer">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-50.304378509521484" y="-139.13841247558594"/>
+      </node>
+      <node id="augmented web" label="Augmented web">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-55.18690490722656" y="-150.00303649902344"/>
+      </node>
+      <node id="calling convention" label="Calling convention">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-29.66126823425293" y="-118.11508178710938"/>
+      </node>
+      <node id="common object request broker architecture" label="Common Object Request Broker Architecture">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-61.213218688964844" y="-142.30101013183594"/>
+      </node>
+      <node id="comparison of application virtual machines" label="Comparison of application virtual machines">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-84.56124114990234" y="-103.77490997314453"/>
+      </node>
+      <node id="document object model" label="Document Object Model">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-68.54754638671875" y="-149.39181518554688"/>
+      </node>
+      <node id="double-chance function" label="Double-chance function">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-36.19764709472656" y="-110.52638244628906"/>
+      </node>
+      <node id="foreign function interface" label="Foreign function interface">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-82.38470458984375" y="-142.06764221191406"/>
+      </node>
+      <node id="front and back ends" label="Front and back ends">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-73.0007095336914" y="-140.7368927001953"/>
+      </node>
+      <node id="interface (computing)" label="Interface (computing)">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-30.879907608032227" y="-129.8180389404297"/>
+      </node>
+      <node id="interface control document" label="Interface control document">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-56.722694396972656" y="-93.49547576904297"/>
+      </node>
+      <node id="name mangling" label="Name mangling">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-90.8523941040039" y="-121.44003295898438"/>
+      </node>
+      <node id="open api" label="Open API">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-38.58639144897461" y="-102.14910888671875"/>
+      </node>
+      <node id="open service interface definitions" label="Open Service Interface Definitions">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-82.19444274902344" y="-131.35166931152344"/>
+      </node>
+      <node id="parsing" label="Parsing">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-91.01493072509766" y="-131.55718994140625"/>
+      </node>
+      <node id="plug-in (computing)" label="Plug-in (computing)">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-89.7757797241211" y="-112.52166748046875"/>
+      </node>
+      <node id="raml (software)" label="RAML (software)">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-41.983184814453125" y="-132.15138244628906"/>
+      </node>
+      <node id="software development kit" label="Software development kit">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-46.240238189697266" y="-96.67816925048828"/>
+      </node>
+      <node id="structured financial messaging system" label="Structured Financial Messaging System">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-73.68295288085938" y="-95.94001007080078"/>
+      </node>
+      <node id="web content vendor" label="Web content vendor">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-35.658958435058594" y="-139.8155975341797"/>
+      </node>
+      <node id="xpcom" label="XPCOM">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-44.13969421386719" y="-146.57643127441406"/>
+      </node>
+      <node id="electronic frontier foundation" label="Electronic Frontier Foundation">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1.4142135623730951"/>
+        <viz:position x="95.06398010253906" y="63.77743911743164"/>
+      </node>
+      <node id="freedom of information" label="Freedom of information">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1.4142135623730951"/>
+        <viz:position x="107.9136734008789" y="61.3497428894043"/>
+      </node>
+      <node id="icanhazpdf" label="ICanHazPDF">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1.7320508075688772"/>
+        <viz:position x="104.07477569580078" y="103.48270416259766"/>
+      </node>
+      <node id="jstor" label="JSTOR">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="134.07742309570312" y="78.13854217529297"/>
+      </node>
+      <node id="open library" label="Open Library">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1.7320508075688772"/>
+        <viz:position x="94.39210510253906" y="91.09918975830078"/>
+      </node>
+      <node id="sci-hub" label="Sci-Hub">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1.7320508075688772"/>
+        <viz:position x="109.89324188232422" y="94.89388275146484"/>
+      </node>
+      <node id="wp:seealso" label="WP:SEEALSO">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-38.32263946533203" y="96.51579284667969"/>
+      </node>
+      <node id="archive site" label="Archive site">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-30.401247024536133" y="114.77996826171875"/>
+      </node>
+      <node id="archive team" label="Archive Team">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-4.3176774978637695" y="73.128173828125"/>
+      </node>
+      <node id="archive.today" label="archive.today">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-45.47400665283203" y="87.46402740478516"/>
+      </node>
+      <node id="collective memory" label="Collective memory">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="0.24183626472949982" y="121.60913848876953"/>
+      </node>
+      <node id="common crawl" label="Common Crawl">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-32.40263748168945" y="71.32923889160156"/>
+      </node>
+      <node id="digital hoarding" label="Digital hoarding">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-48.17084503173828" y="97.84078979492188"/>
+      </node>
+      <node id="digital preservation" label="Digital preservation">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="8.794112205505371" y="102.91635131835938"/>
+      </node>
+      <node id="google cache" label="Google Cache">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-34.82456970214844" y="84.75407409667969"/>
+      </node>
+      <node id="memento project" label="Memento Project">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-6.236571311950684" y="128.8749542236328"/>
+      </node>
+      <node id="minerva initiative" label="Minerva Initiative">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-35.529483795166016" y="124.24064636230469"/>
+      </node>
+      <node id="mirror website" label="Mirror website">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-16.723907470703125" y="130.32330322265625"/>
+      </node>
+      <node id="national digital information infrastructure and preservation program" label="National Digital Information Infrastructure and Preservation Program">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-36.487632751464844" y="106.90718841552734"/>
+      </node>
+      <node id="national digital library program" label="National Digital Library Program">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-40.3347053527832" y="77.33780670166016"/>
+      </node>
+      <node id="padicat" label="PADICAT">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-23.990909576416016" y="71.44640350341797"/>
+      </node>
+      <node id="pagefreezer" label="PageFreezer">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-11.058816909790039" y="119.87837219238281"/>
+      </node>
+      <node id="pandora archive" label="Pandora Archive">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-15.384251594543457" y="68.22480773925781"/>
+      </node>
+      <node id="uk web archive" label="UK Web Archive">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-26.8324031829834" y="129.00445556640625"/>
+      </node>
+      <node id="virtual artifact" label="Virtual artifact">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="4.944540500640869" y="113.93678283691406"/>
+      </node>
+      <node id="wayback machine" label="Wayback Machine">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-21.709928512573242" y="119.77531433105469"/>
+      </node>
+      <node id="web crawling" label="Web crawling">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-46.92244338989258" y="108.06660461425781"/>
+      </node>
+      <node id="webcite" label="WebCite">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="-42.46583557128906" y="117.17245483398438"/>
+      </node>
+      <node id="pack horse library project" label="Pack Horse Library Project">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="43.407127380371094" y="-24.747509002685547"/>
+      </node>
+      <node id="guerilla open access manifesto" label="Guerilla Open Access Manifesto">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="85.8716812133789" y="133.5381317138672"/>
+      </node>
+      <node id="intellectual property infringement" label="Intellectual property infringement">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="95.87458801269531" y="131.1614532470703"/>
+      </node>
+      <node id="library genesis" label="Library Genesis">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1.4142135623730951"/>
+        <viz:position x="66.78764343261719" y="103.31085205078125"/>
+      </node>
+      <node id="open access" label="Open access">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="76.26451110839844" y="131.01840209960938"/>
+      </node>
+      <node id="boat libraries" label="Boat Libraries">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="22.572675704956055" y="-8.77338981628418"/>
+      </node>
+      <node id="full-text search" label="Full-text search">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="108.28996276855469" y="-20.745927810668945"/>
+      </node>
+      <node id="book scanning" label="Book scanning">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="74.61089324951172" y="-74.23914337158203"/>
+      </node>
+      <node id="digital audio" label="Digital audio">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="40.05122375488281" y="-76.62785339355469"/>
+      </node>
+      <node id="economics of digitization" label="Economics of digitization">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="49.37367248535156" y="-80.70510864257812"/>
+      </node>
+      <node id="enumerate (project)" label="Enumerate (project)">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="46.19044876098633" y="-88.90410614013672"/>
+      </node>
+      <node id="frame grabber" label="Frame grabber">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="60.78228759765625" y="-83.95904541015625"/>
+      </node>
+      <node id="newspaper digitization" label="Newspaper digitization">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="66.46788787841797" y="-92.74266052246094"/>
+      </node>
+      <node id="optical character recognition" label="Optical character recognition">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="40.367984771728516" y="-65.89252471923828"/>
+      </node>
+      <node id="raster to vector" label="Raster to vector">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="71.91790771484375" y="-83.98131561279297"/>
+      </node>
+      <node id="scannebago" label="Scannebago">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="55.861873626708984" y="-93.50881958007812"/>
+      </node>
+      <node id="australian web archive" label="Australian Web Archive">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="123.701171875" y="-93.4384994506836"/>
+      </node>
+      <node id="legal deposit" label="Legal deposit">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="132.472900390625" y="-82.51011657714844"/>
+      </node>
+      <node id="national edeposit" label="National edeposit">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="132.3720703125" y="-92.49925231933594"/>
+      </node>
+      <node id="national library" label="National library">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="111.81138610839844" y="-93.9034652709961"/>
+      </node>
+      <node id="web archive" label="Web archive">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="118.6614761352539" y="-101.17151641845703"/>
+      </node>
+      <node id="information repository" label="Information repository">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="146.0027618408203" y="23.910179138183594"/>
+      </node>
+      <node id="content (media)" label="Content (media)">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="145.76307678222656" y="15.0357666015625"/>
+      </node>
+      <node id="citation index" label="Citation index">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="142.44317626953125" y="-39.78606033325195"/>
+      </node>
+      <node id="document-oriented database" label="Document-oriented database">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="153.2191619873047" y="-39.31825256347656"/>
+      </node>
+      <node id="institutional repository" label="Institutional repository">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="159.85482788085938" y="-26.750545501708984"/>
+      </node>
+      <node id="online public access catalog" label="Online public access catalog">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="154.7910614013672" y="-17.505407333374023"/>
+      </node>
+      <node id="isbndb.com" label="ISBNdb.com">
+        <attvalues>
+          <attvalue for="0" value="level"/>
+          <attvalue for="1" value="seed"/>
+        </attvalues>
+        <viz:color r="34" g="94" b="168"/>
+        <viz:size value="1"/>
+        <viz:position x="151.39199829101562" y="-30.207048416137695"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="digital library->anna's archive" source="digital library" target="anna's archive">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->bibliographic database" source="digital library" target="bibliographic database">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->content repository" source="digital library" target="content repository">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->digital library federation" source="digital library" target="digital library federation">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->digital collections selection criteria" source="digital library" target="digital collections selection criteria">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->digitization" source="digital library" target="digitization">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->d-lib" source="digital library" target="d-lib">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->full-text database" source="digital library" target="full-text database">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->mobile library" source="digital library" target="mobile library">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->panjab digital library" source="digital library" target="panjab digital library">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->shadow library" source="digital library" target="shadow library">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->traveling library" source="digital library" target="traveling library">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->web archiving" source="digital library" target="web archiving">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital library->z-library" source="digital library" target="z-library">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web api->application programming interface" source="web api" target="application programming interface">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web api->dynamic web page" source="web api" target="dynamic web page">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web api->overview of restful api description languages" source="web api" target="overview of restful api description languages">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web api->representational state transfer" source="web api" target="representational state transfer">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web api->graphql" source="web api" target="graphql">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web api->web service" source="web api" target="web service">
+        <attvalues>
+          <attvalue for="index" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web service->middleware" source="web service" target="middleware">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web service->service-oriented architecture" source="web service" target="service-oriented architecture">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web service->web map service" source="web service" target="web map service">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web service->web api" source="web service" target="web api">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="graphql->query by example" source="graphql" target="query by example">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="graphql->openapi specification" source="graphql" target="openapi specification">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="graphql->microservices" source="graphql" target="microservices">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="representational state transfer->overview of restful api description languages" source="representational state transfer" target="overview of restful api description languages">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="representational state transfer->resource-oriented architecture" source="representational state transfer" target="resource-oriented architecture">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="representational state transfer->resource-oriented computing" source="representational state transfer" target="resource-oriented computing">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="representational state transfer->service-oriented architecture" source="representational state transfer" target="service-oriented architecture">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="representational state transfer->web-oriented architecture" source="representational state transfer" target="web-oriented architecture">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->static web page" source="dynamic web page" target="static web page">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->dynamic html" source="dynamic web page" target="dynamic html">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->responsive web design" source="dynamic web page" target="responsive web design">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->deep web (search indexing)" source="dynamic web page" target="deep web (search indexing)">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->web template system" source="dynamic web page" target="web template system">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->solution stack" source="dynamic web page" target="solution stack">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->lamp (software bundle)" source="dynamic web page" target="lamp (software bundle)">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->lyme (software bundle)" source="dynamic web page" target="lyme (software bundle)">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->lyce (software bundle)" source="dynamic web page" target="lyce (software bundle)">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->content management system" source="dynamic web page" target="content management system">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->web content management system" source="dynamic web page" target="web content management system">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="dynamic web page->personalization management system" source="dynamic web page" target="personalization management system">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->api testing" source="application programming interface" target="api testing">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->api writer" source="application programming interface" target="api writer">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->augmented web" source="application programming interface" target="augmented web">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->calling convention" source="application programming interface" target="calling convention">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->common object request broker architecture" source="application programming interface" target="common object request broker architecture">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->comparison of application virtual machines" source="application programming interface" target="comparison of application virtual machines">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->document object model" source="application programming interface" target="document object model">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->double-chance function" source="application programming interface" target="double-chance function">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->foreign function interface" source="application programming interface" target="foreign function interface">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->front and back ends" source="application programming interface" target="front and back ends">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->interface (computing)" source="application programming interface" target="interface (computing)">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->interface control document" source="application programming interface" target="interface control document">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->microservices" source="application programming interface" target="microservices">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->name mangling" source="application programming interface" target="name mangling">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->open api" source="application programming interface" target="open api">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->open service interface definitions" source="application programming interface" target="open service interface definitions">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->parsing" source="application programming interface" target="parsing">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->plug-in (computing)" source="application programming interface" target="plug-in (computing)">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->raml (software)" source="application programming interface" target="raml (software)">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->software development kit" source="application programming interface" target="software development kit">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->structured financial messaging system" source="application programming interface" target="structured financial messaging system">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->web api" source="application programming interface" target="web api">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->web content vendor" source="application programming interface" target="web content vendor">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="application programming interface->xpcom" source="application programming interface" target="xpcom">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="z-library->anna's archive" source="z-library" target="anna's archive">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="z-library->electronic frontier foundation" source="z-library" target="electronic frontier foundation">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="z-library->freedom of information" source="z-library" target="freedom of information">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="z-library->icanhazpdf" source="z-library" target="icanhazpdf">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="z-library->jstor" source="z-library" target="jstor">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="z-library->open library" source="z-library" target="open library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="z-library->sci-hub" source="z-library" target="sci-hub">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->wp:seealso" source="web archiving" target="wp:seealso">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->anna's archive" source="web archiving" target="anna's archive">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->archive site" source="web archiving" target="archive site">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->archive team" source="web archiving" target="archive team">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->archive.today" source="web archiving" target="archive.today">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->collective memory" source="web archiving" target="collective memory">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->common crawl" source="web archiving" target="common crawl">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->digital hoarding" source="web archiving" target="digital hoarding">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->digital preservation" source="web archiving" target="digital preservation">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->digital library" source="web archiving" target="digital library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->google cache" source="web archiving" target="google cache">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->memento project" source="web archiving" target="memento project">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->minerva initiative" source="web archiving" target="minerva initiative">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->mirror website" source="web archiving" target="mirror website">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->national digital information infrastructure and preservation program" source="web archiving" target="national digital information infrastructure and preservation program">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->national digital library program" source="web archiving" target="national digital library program">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->padicat" source="web archiving" target="padicat">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->pagefreezer" source="web archiving" target="pagefreezer">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->pandora archive" source="web archiving" target="pandora archive">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->uk web archive" source="web archiving" target="uk web archive">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->virtual artifact" source="web archiving" target="virtual artifact">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->wayback machine" source="web archiving" target="wayback machine">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->web crawling" source="web archiving" target="web crawling">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="web archiving->webcite" source="web archiving" target="webcite">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="traveling library->digital library" source="traveling library" target="digital library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="traveling library->pack horse library project" source="traveling library" target="pack horse library project">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="shadow library->anna's archive" source="shadow library" target="anna's archive">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="shadow library->guerilla open access manifesto" source="shadow library" target="guerilla open access manifesto">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="shadow library->icanhazpdf" source="shadow library" target="icanhazpdf">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="shadow library->intellectual property infringement" source="shadow library" target="intellectual property infringement">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="shadow library->library genesis" source="shadow library" target="library genesis">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="shadow library->open access" source="shadow library" target="open access">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="shadow library->open library" source="shadow library" target="open library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="shadow library->sci-hub" source="shadow library" target="sci-hub">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="shadow library->z-library" source="shadow library" target="z-library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="mobile library->digital library" source="mobile library" target="digital library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="mobile library->traveling library" source="mobile library" target="traveling library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="mobile library->boat libraries" source="mobile library" target="boat libraries">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="full-text database->digital library" source="full-text database" target="digital library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="full-text database->full-text search" source="full-text database" target="full-text search">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digitization->book scanning" source="digitization" target="book scanning">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digitization->digital audio" source="digitization" target="digital audio">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digitization->digital library" source="digitization" target="digital library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digitization->economics of digitization" source="digitization" target="economics of digitization">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digitization->enumerate (project)" source="digitization" target="enumerate (project)">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digitization->frame grabber" source="digitization" target="frame grabber">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digitization->newspaper digitization" source="digitization" target="newspaper digitization">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digitization->optical character recognition" source="digitization" target="optical character recognition">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digitization->raster to vector" source="digitization" target="raster to vector">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digitization->scannebago" source="digitization" target="scannebago">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital collections selection criteria->australian web archive" source="digital collections selection criteria" target="australian web archive">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital collections selection criteria->legal deposit" source="digital collections selection criteria" target="legal deposit">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital collections selection criteria->national edeposit" source="digital collections selection criteria" target="national edeposit">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital collections selection criteria->national library" source="digital collections selection criteria" target="national library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="digital collections selection criteria->web archive" source="digital collections selection criteria" target="web archive">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="content repository->information repository" source="content repository" target="information repository">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="content repository->content (media)" source="content repository" target="content (media)">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="bibliographic database->citation index" source="bibliographic database" target="citation index">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="bibliographic database->document-oriented database" source="bibliographic database" target="document-oriented database">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="bibliographic database->full-text database" source="bibliographic database" target="full-text database">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="bibliographic database->institutional repository" source="bibliographic database" target="institutional repository">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="bibliographic database->online public access catalog" source="bibliographic database" target="online public access catalog">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="bibliographic database->isbndb.com" source="bibliographic database" target="isbndb.com">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="anna's archive->digital library" source="anna's archive" target="digital library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="anna's archive->electronic frontier foundation" source="anna's archive" target="electronic frontier foundation">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="anna's archive->freedom of information" source="anna's archive" target="freedom of information">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="anna's archive->icanhazpdf" source="anna's archive" target="icanhazpdf">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="anna's archive->library genesis" source="anna's archive" target="library genesis">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="anna's archive->open library" source="anna's archive" target="open library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="anna's archive->sci-hub" source="anna's archive" target="sci-hub">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="anna's archive->shadow library" source="anna's archive" target="shadow library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="anna's archive->z-library" source="anna's archive" target="z-library">
+        <attvalues>
+          <attvalue for="index" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
